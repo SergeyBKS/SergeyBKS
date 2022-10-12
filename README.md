@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sergey
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning js, phyton, dart
+- 💞️ I’m looking to collaborate on front-end development
+- 📫 You can reach me in WA +6281293399058
